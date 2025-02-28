@@ -1,6 +1,6 @@
 .container {
   flex: 1;
-  display: flex;
+  /* display: flex; */
   padding: 0 0.5rem;
   flex-direction: column;
   justify-content: center;
